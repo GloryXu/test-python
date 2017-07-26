@@ -1,0 +1,3 @@
+//// after import, use under code to reload python script
+>>> from imp import reload
+>>> reload(__init__)
